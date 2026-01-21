@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pgvector
+openai
+tiktoken
+pydantic
+pydantic-settings
+python-multipart
+# Optional: structured logging
+structlog
+streamlit
